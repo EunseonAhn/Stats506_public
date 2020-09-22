@@ -1,5 +1,5 @@
 ## Stats506_public
-#### About: 
+### About: STATS506 F20 Activities Week1-3 
 ###   Repository: https://github.com/jbhender/Stats506_F20/tree/master/activities/week3
 ###   Course link: https://umich.instructure.com/courses/394304
 
