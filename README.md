@@ -5,7 +5,8 @@
 
 # Activities:
 ## Members Repository (wil add later):
-
+## * Hongfan : https://github.com/HongfanChen/Stats506_public
+## * Hao He  https://github.com/hhaohe513/Stats506_public:
 ## Week 1-3:
 ##	1. Week 1: Shell Scripting and column extraction  
 ##	2. Week 2: Practice w/ basic R value assignment
