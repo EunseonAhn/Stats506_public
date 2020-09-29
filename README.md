@@ -13,3 +13,6 @@ STATS506 F20 Activities Week1-3
 #####	1. Week 1: Shell Scripting and column extraction  
 #####	2. Week 2: Practice w/ basic R value assignment
 #####	3. Week 3: Git version control
+
+### Week 4:
+##### 1. Week 4: Manipulating dataframe/tibbles w/ dplyr library
