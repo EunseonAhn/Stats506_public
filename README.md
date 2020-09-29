@@ -12,7 +12,7 @@ Week| Name | Repository Link
 1-3|Hongfan Chen | [Link](https://github.com/HongfanChen/Stats506_public)
 1-3|Hao He | [Link](https://github.com/hhaohe513/Stats506_public)
 4-6|Zhihao Xu| [Link](https://github.com/ZhihaoXu/Stats506_public)
-4-6|Yingyi Yang|[Link]https://github.com/YingyiYang/Stats506_public)
+4-6|Yingyi Yang|[Link](https://github.com/YingyiYang/Stats506_public)
 4-6|Dongyang Zhao|[Link](https://github.com/zhaodyleo/STATS506_F20)
 
 #### Description of Activities 
