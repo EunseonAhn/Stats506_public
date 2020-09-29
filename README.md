@@ -6,7 +6,7 @@ STATS506 F20 Activities Week1-3
 
 #### Activities:
 ##### Members Repository:
-##### * Hongfan : https://github.com/HongfanChen/Stats506_public
+##### *   Hongfan Chen : https://github.com/HongfanChen/Stats506_public
 ##### * Hao He  https://github.com/hhaohe513/Stats506_public:
 
 ### Week 1-3:
