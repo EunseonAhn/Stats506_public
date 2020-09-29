@@ -6,8 +6,8 @@ STATS506 F20 Activities Description and Link to Group Member's Repository
 
 #### Activities:
 ##### Members Repository:
-*   Hongfan Chen : https://github.com/HongfanChen/Stats506_public
-* Hao He  https://github.com/hhaohe513/Stats506_public:
+*   Hongfan Chen : [link to repository](https://github.com/HongfanChen/Stats506_public)
+* Hao He  [link to repository](https://github.com/hhaohe513/Stats506_public)
 
 ### Week 1-3:
 #####	1. Week 1: Shell Scripting and column extraction  
