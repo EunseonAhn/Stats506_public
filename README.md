@@ -1,6 +1,6 @@
 ## Stats506_public
 ### About: 
-STATS506 F20 activities completed during class divided by week
+STATS506 F20 activities completed during class divided up by week
 ### Resources: 
 * [Repository](https://github.com/jbhender/Stats506_F20/tree/master/activities/)
 * [Course link](https://umich.instructure.com/courses/394304)
