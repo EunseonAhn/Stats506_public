@@ -11,17 +11,12 @@ Week| Name | Repository Link
 ------------ | ------------ | -------------
 1-3|Hongfan Chen | [Link](https://github.com/HongfanChen/Stats506_public)
 1-3|Hao He | [Link](https://github.com/hhaohe513/Stats506_public)
+4-6|Zhihao Xu| [Link](https://github.com/ZhihaoXu/Stats506_public)
+4-6|Yingyi Yang|[Link]https://github.com/YingyiYang/Stats506_public)
+4-6|Dongyang Zhao|[Link](https://github.com/zhaodyleo/STATS506_F20)
 
-
-#### Description of Activities (Week 1-3):
+#### Description of Activities 
 * Week 1: Shell Scripting and column extraction  
 * Week 2: Practice w/ basic R value assignment
 * Week 3: Git version control
-
-#### Members' Repository:
-* Zhihao Xu: [Link to repository](https://github.com/ZhihaoXu/Stats506_public)
-* Yingyi Yang: [Link to repository](https://github.com/YingyiYang/Stats506_public)
-* Dongyang Zhao: [Link to repository](https://github.com/zhaodyleo/STATS506_F20)
-
-#### Description of Activities (Week 4-6):
 * Week 4: Manipulating dataframe/tibbles with dplyr library and ggplot
