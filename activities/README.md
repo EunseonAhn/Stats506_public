@@ -5,3 +5,5 @@
 * **week1-part2_args.sh**: Not sure (will fill in later) 
 
 #### Week 4
+* **week4_part1.Rmd**: Manipulating Orange data w/ dyplyr
+* **week4_part2.Rmd**:
