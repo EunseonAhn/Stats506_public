@@ -1,4 +1,4 @@
-### __File description__
+## __File description__
 #### Week 1
 * __cutname.sh__: cuts out specific column names 
 * **week1_part1.sh**: Reads  in data and reformats 
