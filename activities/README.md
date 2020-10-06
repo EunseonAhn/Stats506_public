@@ -5,5 +5,5 @@
 * **week1-part2_args.sh**: Not sure (will fill in later) 
 
 ### Week 4
-* **week4_part1.Rmd**: Manipulating Orange data w/ dyplyr
-* **week4_part2.Rmd**:
+* **week4_part1.Rmd**: Manipulate Orange data w/ dyplyr
+* **week4_part2.Rmd**: Use ggplot to plot summary results from an analysis of the 2015 RECS data comparing the proportion of homes with internet access by Urban (including Urban Cluster) and Rural status within each Census Division.
