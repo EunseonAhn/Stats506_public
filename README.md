@@ -20,3 +20,4 @@ Week| Name | Repository Link
 * Week 2: Practice w/ basic R value assignment
 * Week 3: Git version control
 * Week 4: Manipulating dataframe/tibbles with dplyr library and ggplot
+* Week 6: Prepping data and constructing table with NHANES data
