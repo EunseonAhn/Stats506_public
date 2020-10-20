@@ -21,3 +21,4 @@ Week| Name | Repository Link
 * Week 3: Git version control
 * Week 4: Manipulating dataframe/tibbles with dplyr library and ggplot
 * Week 6: Prepping data and constructing table with NHANES data
+* Week 7: Working & Passing column variables to functions in dplyr
