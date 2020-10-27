@@ -11,9 +11,12 @@ Week| Name | Repository Link
 ------------ | ------------ | -------------
 1-3|Hongfan Chen | [Link](https://github.com/HongfanChen/Stats506_public)
 1-3|Hao He | [Link](https://github.com/hhaohe513/Stats506_public)
-4-6|Zhihao Xu| [Link](https://github.com/ZhihaoXu/Stats506_public)
-4-6|Yingyi Yang|[Link](https://github.com/YingyiYang/Stats506_public)
-4-6|Dongyang Zhao|[Link](https://github.com/zhaodyleo/STATS506_F20)
+4-7|Zhihao Xu| [Link](https://github.com/ZhihaoXu/Stats506_public)
+4-7|Yingyi Yang|[Link](https://github.com/YingyiYang/Stats506_public)
+4-7|Dongyang Zhao|[Link](https://github.com/zhaodyleo/STATS506_F20)
+8+ (Project)|Yanyu Long|[Link](https://github.com/longyyu/Stats506_public)
+8+ (Project)|Minghao Yang|[Link](https://github.com/Minghaoy97/Stats506_Public)
+8+ (Project)|Tianshi Wang|[Link](https://github.com/SkyWang0919/Stats506_public)
 
 #### Description of Activities 
 * Week 1: Shell Scripting and column extraction  
@@ -22,3 +25,4 @@ Week| Name | Repository Link
 * Week 4: Manipulating dataframe/tibbles with dplyr library and ggplot
 * Week 6: Prepping data and constructing table with NHANES data
 * Week 7: Working & Passing column variables to functions in dplyr
+* Week 8: Proposal for class project
