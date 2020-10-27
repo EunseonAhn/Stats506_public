@@ -4,6 +4,7 @@ STATS506 F20 activities completed during class divided up by week
 ### Resources: 
 * [Class Repository w/ Activity Instructions](https://github.com/jbhender/Stats506_F20/tree/master/activities/)
 * [Canvas Course link](https://umich.instructure.com/courses/394304)
+* [Project Repository](https://github.com/SkyWang0919/STATS-506-Midterm-Project-02)
 
 ### Activities:
 #### Members' Repository:
